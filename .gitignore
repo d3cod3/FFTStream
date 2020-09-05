@@ -1,0 +1,42 @@
+# QtCreator
+*.qbs.user
+*.pro.user
+*.pri
+
+# Linux
+*~
+# KDE
+.directory
+.AppleDouble
+
+# OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+# Windows
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+#########################
+# miscellaneous
+#########################
+
+.mailmap
+*.app
+*.dSYM
+*.pyc
+*.dll
+bin/.tmp
+bin/data/temp
+bin/FFTStream
+bin/FFTStream_debug
+bin/PkgInfo
+bin/FFTStream-Info.plist
+bin/imgui.ini
+bin/libfmodex.so
+obj/
